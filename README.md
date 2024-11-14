@@ -1,6 +1,6 @@
 #  MyBlog
 
-> [参考地址]([https://github.com/nswbmw/N-blog/blob/master/book/4.2%20%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C.md](https://github.com/nswbmw/N-blog/blob/master/book/4.2 准备工作.md))
+[参考地址](https://github.com/nswbmw/N-blog/blob/master/book/4.2%20%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C.md)
 
 对应文件及文件夹的用处
 
